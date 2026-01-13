@@ -1,9 +1,0 @@
-mkdir day1
-cd day1
-git clone https://github.com/Ibrahim-Adel15/build1.git
-cd build1/
-tree
-gradle test
-tree
-gradle build
-java -jar build/libs/ivolve-app.jar
